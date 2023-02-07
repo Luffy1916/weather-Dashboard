@@ -1,8 +1,8 @@
 var userSearch = [];
 
 const searchBtn = $("#search-button")
-// let apiKey = "a0822daa77d2fe015266567cae2f77a3"
-const tempKey = "d91f911bcf2c0f925fb6535547a5ddc9"
+
+const tempKey = "81cb79a7d46bbe91ad5c2fba787302d9"
 function renderButtons() {
     const userSearchHistory = $('#history');
     userSearchHistory.empty();
